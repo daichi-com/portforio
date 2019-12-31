@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href=" css/stylesheet.css">
+        <title>Hattori Daichi</title>
+    </head>
+    <body>
+        <div class="top-pic">
+            <h1>
+                Hello
+                <span>.</span>
+                I am
+                Daichi Hattori
+            </h1>
+        </div>
+        <div class="vision">
+            <h1>vision</h1>
+            <div class="vision1">
+                <div class="vision-word">
+                  <p>
+                    はじめまして、服部　大地　と申します。<br>
+                    神奈川県生まれ、神奈川県育ちです。<br>
+                    現在大学３年生、日々様々な勉強をしています。<br>
+                    一度　出会った人は宝物。<br>
+                    世界の総人口約７０億人に一人の出会い。<br>
+                    「奇跡ではないでしょうか」<br>
+                    人のつながりを大切にしています。<br>
+                    以上、服部からでした。
+                  </p>
+                </div>
+            </div>
+        </div>
+        <div class="about">
+            <h1 class="about-1">about</h1>
+            <div class="main-about">
+                <div class="about-pic">
+                        <img class="myimg" src="img/63567F5D-0015-4F57-9D2B-055E91AEB3CD.jpg">
+                        <h1 class="name">服部　大地　/  Hattori Daichi</h1>
+
+                </div>
+                <div class="about-1">
+                    <div class="about-words">
+                    
+                       <h3>年齢　： ２１歳</h3>
+                       <h3>出身地： 神奈川県　横須賀市</h3>
+                       <h3>趣味　：　カラオケ、釣り、卓球、食べること</h3>
+
+                    </div>
+                </div>
+                <div class="skills">
+                    <h2>skills</h2>
+                    <ul>
+                     <li class="html">
+                        <h3>HTML</h3>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i>
+                    
+                    </li>
+                    <li class="css">
+                        <h3>CSS</h3>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star-half-alt"></i>
+                        <i class="far fa-star"></i>
+                    </li >
+                    <li class="php">
+                            <h3>PHP</h3>
+                            <i class="fas fa-star "></i>
+                            <i class="fas fa-star "></i>
+                            <i class="far fa-star"></i>
+                            <i class="far fa-star"></i>
+                            <i class="far fa-star"></i>
+                    </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="access">
+            <h1 class="c1">contact</h1>
+            <div class="sns">
+                    <a href ="https://twitter.com/chori1998"><i class="fab fa-twitter twitter"></i></a>
+                    <a href="https://www.instagram.com/?hl=ja"><i class="fab fa-instagram inst"></i></a>
+                    <a href ="mailto:chori4649stu@gmail.com"><i class="far fa-envelope mail"></i></a>
+            </div>
+
+        </div>
+    </body>
+</html>
